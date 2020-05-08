@@ -7,6 +7,7 @@ The idea behind this script was to open a way to send an early birthday wish wit
   3. Target Twitter account
   4. The birthday wish (as a .txt file)
   5. Sender's Twitter email address and password
+
 How to use:
   Several requirements have to be met. 
   1. The machine on which the script runs should have the path to chromedriver.exe or geckodriver.exe (for Firefox) saved in the environment PATH.
