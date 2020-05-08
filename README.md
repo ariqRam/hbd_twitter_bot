@@ -13,3 +13,9 @@ The idea behind this script was to open a way to send an early birthday wish wit
   2. If the drivers' path are not put in the environment PATH, the file should be in the same directory as the hbd.py script
   3. The birthday wish file has to be in the same directory as the hbd.py script.
   
+# Dependencies
+
+The following Python libraries need to be installed (installation through pip is recommended)
+  1. Selenium 
+  2. Keyboard
+  3. Pynput
