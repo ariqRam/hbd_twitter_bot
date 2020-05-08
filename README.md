@@ -8,8 +8,7 @@ The idea behind this script was to open a way to send an early birthday wish wit
   4. The birthday wish (as a .txt file)
   5. Sender's Twitter email address and password
 
-How to use:
-  Several requirements have to be met. 
+# Requirements
   1. The machine on which the script runs should have the path to chromedriver.exe or geckodriver.exe (for Firefox) saved in the environment PATH.
   2. If the drivers' path are not put in the environment PATH, the file should be in the same directory as the hbd.py script
   3. The birthday wish file has to be in the same directory as the hbd.py script.
